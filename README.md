@@ -12,7 +12,7 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 ## 🔗 Links
 
-- 🔧 **Solution Repository**: [github.com/YashHarfode/Frontend-Mentor-Social-links-profile](https://github.com/YashHarfode/Frontend-Mentor-Social-links-profile)
+- 🔧 **Solution Repository**: [github.com/YashHarfode/Frontend-Mentor-Social-links-profile](https://github.com/yashharfode/Frontend-Mentor-Social-links-profile)
 - 🌐 **Live Site**: [yashharfode.github.io/Frontend-Mentor-Social-links-profile](https://yashharfode.github.io/Frontend-Mentor-Social-links-profile)
 
 ---
